@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @nielswart
-- 👀 I’m interested in agriculture and finance and use code as a means to an end
-- 🌱 I’m currently learning about regenerative agriculture, livestock farming and financial modelling & valuation
+- 👀 I’m interested in agriculture, finance, investment and related tech
 - 💞️ I don't have much time to collaborate
 - 📫 reach me on twitter [@nielswart_](https://twitter.com/nielswart_)
 
